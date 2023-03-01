@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/nav_courses"
+        android:icon="@drawable/ic_baseline_courses_24"
+        android:title="Courses" />
+
+    <item
+        android:id="@+id/nav_classes"
+        android:icon="@drawable/ic_baselinescool_24"
+        android:title="Classes" />
+    <item
+        android:id="@+id/nav_quiz"
+        android:icon="@drawable/ic_baseline_quizr_24"
+        android:title="Quiz" />
+    <item
+        android:id="@+id/nav_instructor"
+        android:icon="@drawable/ic_baseline_instructor_24"
+        android:title="Intructors" />
+
+
+</menu>
